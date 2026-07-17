@@ -80,7 +80,7 @@ Advanced TypeScript wrapper for pytubefix. Brings Python library power to Node.j
 
 ### 🎥 [youtube-downloader](https://github.com/sigmaCoderx/youtube-downloader)
 Telegram bot for downloading YouTube videos and audio. Built with Python for easy deployment and management.
-**Tech:** Python, Telegram Bot API | **Deployed on:** PythonAnywhere
+**Tech:** Python, Telegram Bot API | **
 
 ---
 
