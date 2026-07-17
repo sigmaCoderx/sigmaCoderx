@@ -1,4 +1,4 @@
-#Hi, I'm Sigma Coder
+# Hi, I'm Sigma Coder
 
 ## Full-Stack Developer | TypeScript | Python | JavaScript
 
