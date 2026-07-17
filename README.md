@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Sigma Coder
+#Hi, I'm Sigma Coder
 
-## 🚀 Full-Stack Developer | TypeScript | Python | JavaScript
+## Full-Stack Developer | TypeScript | Python | JavaScript
 
 Welcome to my GitHub! I'm a passionate developer building modern web applications and automation tools. I specialize in full-stack development with expertise in **TypeScript**, **JavaScript**, and **Python**.
 
