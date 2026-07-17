@@ -72,7 +72,7 @@ Welcome to my GitHub! I'm a passionate developer building modern web application
 
 ### 🎬 [ytDownloader](https://github.com/sigmaCoderx/ytDownloader)
 A full-stack YouTube downloader application built with **TypeScript & JavaScript**. Download videos, audio, and metadata with an intuitive interface.
-**Tech:** TypeScript, Node.js, Express | **Deployed on:** Vercel
+**Tech:** TypeScript, Node.js, Express 
 
 ### 📦 [nodeytapi](https://github.com/sigmaCoderx/nodeytapi)
 Advanced TypeScript wrapper for pytubefix. Brings Python library power to Node.js developers—download YouTube content and fetch streams programmatically.
@@ -80,7 +80,7 @@ Advanced TypeScript wrapper for pytubefix. Brings Python library power to Node.j
 
 ### 🎥 [youtube-downloader](https://github.com/sigmaCoderx/youtube-downloader)
 Telegram bot for downloading YouTube videos and audio. Built with Python for easy deployment and management.
-**Tech:** Python, Telegram Bot API | **
+**Tech:** Python, Telegram Bot API 
 
 ---
 
